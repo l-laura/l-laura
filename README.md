@@ -1,6 +1,6 @@
 ### Hello 👋
 
-The backdrop of my profile picture was taken by [Greg Jeanneau](https://unsplash.com/photos/5aN_QNPSIdA).)
+The backdrop of my profile picture was taken by [Greg Jeanneau](https://unsplash.com/photos/5aN_QNPSIdA).
 
 <!--
 **l-laura/l-laura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
