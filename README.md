@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I’m Laura, a software engineer driven by her passion for machine learning applications and humane technology. My roots are in the serene Estonia, from where IT studies carried me away to Munich and Tokyo.
+I’m a software engineer driven by her passion for machine learning applications and humane technology. My roots are in the serene Estonia, from where IT studies carried me away to Munich and Tokyo.
 
 I aspire to write reliable software that is a joy to maintain ✨ My focus lies on simplicity, good design patterns, beautiful documentation, and smart test cases.
 
