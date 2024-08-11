@@ -8,7 +8,7 @@ I have written the [SIURU](https://github.com/fukuda-lab/siuru) framework to det
 
 **What I’m seeking 🔭**
 
-I aspire to develop data analysis and machine learning solutions that help us lead smarter and more sustainable lifestyles. If you are seeking to fill an all-rounder position that makes use of my experience with full stack development, Docker, CI, scripting, and ML & data analysis frameworks, contact me over LinkedIn!
+I aspire to develop data analysis and machine learning solutions that help us lead smarter and more sustainable lifestyles. If you are seeking to fill an all-rounder position that makes use of my experience with full stack development, Docker, CI, scripting, and ML & data analysis frameworks, get in touch!
 
 **Credits 🌱**
 
